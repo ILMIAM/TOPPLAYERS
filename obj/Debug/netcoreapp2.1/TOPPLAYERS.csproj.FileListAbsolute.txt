@@ -1,0 +1,14 @@
+C:\Users\portable\source\repos\TOPPLAYERS\bin\Debug\netcoreapp2.1\TOPPLAYERS.deps.json
+C:\Users\portable\source\repos\TOPPLAYERS\bin\Debug\netcoreapp2.1\TOPPLAYERS.runtimeconfig.json
+C:\Users\portable\source\repos\TOPPLAYERS\bin\Debug\netcoreapp2.1\TOPPLAYERS.runtimeconfig.dev.json
+C:\Users\portable\source\repos\TOPPLAYERS\bin\Debug\netcoreapp2.1\TOPPLAYERS.dll
+C:\Users\portable\source\repos\TOPPLAYERS\obj\Debug\netcoreapp2.1\TOPPLAYERS.csproj.CoreCompileInputs.cache
+C:\Users\portable\source\repos\TOPPLAYERS\obj\Debug\netcoreapp2.1\TOPPLAYERS.RazorAssemblyInfo.cache
+C:\Users\portable\source\repos\TOPPLAYERS\obj\Debug\netcoreapp2.1\TOPPLAYERS.RazorAssemblyInfo.cs
+C:\Users\portable\source\repos\TOPPLAYERS\obj\Debug\netcoreapp2.1\TOPPLAYERS.AssemblyInfoInputs.cache
+C:\Users\portable\source\repos\TOPPLAYERS\obj\Debug\netcoreapp2.1\TOPPLAYERS.AssemblyInfo.cs
+C:\Users\portable\source\repos\TOPPLAYERS\obj\Debug\netcoreapp2.1\TOPPLAYERS.RazorTargetAssemblyInfo.cache
+C:\Users\portable\source\repos\TOPPLAYERS\bin\Debug\netcoreapp2.1\TOPPLAYERS.pdb
+C:\Users\portable\source\repos\TOPPLAYERS\obj\Debug\netcoreapp2.1\TOPPLAYERS.dll
+C:\Users\portable\source\repos\TOPPLAYERS\obj\Debug\netcoreapp2.1\TOPPLAYERS.pdb
+C:\Users\portable\source\repos\TOPPLAYERS\obj\Debug\netcoreapp2.1\TOPPLAYERS.csprojAssemblyReference.cache
